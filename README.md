@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Karthik 👋
 
-<!--
-**karthikvm37-ux/karthikvm37-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with experience in building scalable applications using Java, Spring Boot, Angular, and AWS.
 
-Here are some ideas to get you started:
+## Technologies
+- Java / Spring Boot
+- JavaScript / TypeScript
+- Angular
+- REST APIs
+- Microservices
+- AWS
+- Docker
+- SQL / Oracle / MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 Event Driven Data Processing System  
+🔹 CI/CD Automation Platform  
+🔹 Full Stack Web Applications
+
+## Connect with me
+LinkedIn: www.linkedin.com/in/karthik-vamsi-majji##
